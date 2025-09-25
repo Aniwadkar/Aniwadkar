@@ -7,9 +7,9 @@ I love turning raw, messy data into clean, reliable, and actionable insights. My
 
 ## 🔧 Tech Stack
 - **Languages:** Python, SQL, R  
-- **Data Engineering & Orchestration:** Airflow, dbt, SQLAlchemy, Supabase, Docker, Jenkins  
-- **Cloud & Infrastructure:** AWS (S3, Glue, Athena, EC2, IAM), CI/CD (GitHub Actions, Jenkins), Linux  
-- **Databases/Warehouses:** PostgreSQL, MySQL, Snowflake, Supabase  
+- **Data Engineering & Orchestration:** Apache Airflow, dbt, SQLAlchemy, Supabase, Docker, Jenkins  
+- **Cloud & Infrastructure:** AWS (S3, EC2, RDS), CI/CD (GitHub Actions, Jenkins), Linux  
+- **Databases/Warehouses:** PostgreSQL, MySQL, Snowflake, Supabase, MongoDB
 - **Visualization & BI:** Power BI, Metabase  
 - **Other Tools:** Git, VS Code  
 
