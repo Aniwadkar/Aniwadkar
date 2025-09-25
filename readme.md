@@ -16,16 +16,16 @@ I love turning raw, messy data into clean, reliable, and actionable insights. My
 ---
 
 ## 📂 Featured Projects
-- 📊 [**Weather Data ETL Pipeline**](https://github.com/username/repo)  
+- 📊 [**Weather Data ETL Pipeline**](https://github.com/Aniwadkar/ETLWeather)  
   Automated ingestion of 5,000+ daily weather records using **Airflow + Docker + PostgreSQL + AWS S3**, reducing reporting latency by 70%.  
 
-- 🛒 [**E-commerce Analytics Lakehouse**](https://github.com/username/repo)  
+- 🛒 [**E-commerce Analytics Lakehouse**](https://github.com/Aniwadkar/Ecommerce)  
   End-to-end analytics platform with **Supabase, dbt Cloud, GitHub Actions, Power BI**, powering insights on order trends, AOV, and customer segmentation.  
 
-- 💊 [**Pharma Supply Chain Lakehouse**](https://github.com/username/repo)  
+- 💊 [**Pharma Supply Chain Lakehouse**](https://github.com/Aniwadkar/pharma_sales_lakehouse)  
   Modeled supply chain flows with **Postgres, SQLAlchemy, dbt bronze/silver/gold layers**, enabling KPI tracking for manufacturing & distribution.  
 
-- 📈 [**Finance Data Pipeline (ETL + Analytics)**](https://github.com/username/repo)  
+- 📈 [**Finance Data Pipeline (ETL + Analytics)**](https://github.com/Aniwadkar/Finance_ETL_Pipeline)  
   Built a **Postgres + Airflow + AWS ETL pipeline** with rolling 30-day volatility views, enabling market risk monitoring for financial data.  
 
 ---
