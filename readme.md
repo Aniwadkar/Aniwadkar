@@ -7,10 +7,11 @@ I love turning raw, messy data into clean, reliable, and actionable insights. My
 
 ## 🔧 Tech Stack
 - **Languages:** Python, SQL, R  
-- **Data Engineering:** Airflow, dbt, Supabase, Docker, AWS (S3, Glue, Athena, EC2)  
+- **Data Engineering & Orchestration:** Airflow, dbt, SQLAlchemy, Supabase, Docker, Jenkins  
+- **Cloud & Infrastructure:** AWS (S3, Glue, Athena, EC2, IAM), CI/CD (GitHub Actions, Jenkins), Linux  
 - **Databases/Warehouses:** PostgreSQL, MySQL, Snowflake, Supabase  
 - **Visualization & BI:** Power BI, Metabase  
-- **Other Tools:** Git, GitHub Actions, Linux, VS Code  
+- **Other Tools:** Git, VS Code  
 
 ---
 
@@ -24,6 +25,9 @@ I love turning raw, messy data into clean, reliable, and actionable insights. My
 - 💊 [**Pharma Supply Chain Lakehouse**](https://github.com/username/repo)  
   Modeled supply chain flows with **Postgres, SQLAlchemy, dbt bronze/silver/gold layers**, enabling KPI tracking for manufacturing & distribution.  
 
+- 📈 [**Finance Data Pipeline (ETL + Analytics)**](https://github.com/username/repo)  
+  Built a **Postgres + Airflow + AWS ETL pipeline** with rolling 30-day volatility views, enabling market risk monitoring for financial data.  
+
 ---
 
 ## 🌱 Currently Learning
@@ -36,8 +40,8 @@ I love turning raw, messy data into clean, reliable, and actionable insights. My
 ## 📫 Connect with Me
 - [LinkedIn](https://linkedin.com/in/anishwadkar)  
 - [GitHub](https://github.com/Aniwadkar)  
-- 📧 Email: your.email@example.com  
+- 📧 Email: anish.wadkar17@gmail.com
 
 ---
 
-⭐️ *“Data is only valuable when it drives decisions.”*  
+⭐️ *“Data is only valuable when it drives decisions.”*
