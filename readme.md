@@ -51,6 +51,21 @@ I work on building **reliable, analytics-ready data pipelines** that transform r
 - Built analytics-ready datasets and structured schemas for operational and financial reporting.
 - Developed Power BI dashboards translating sales and regional performance into actionable insights.
 - Reduced reporting turnaround time from **days to hours** through automated transformations.
+```mermaid
+flowchart LR
+    A[Raw Pharma Sales Data] --> B[PostgreSQL (Bronze Layer)]
+    B --> C[dbt Transformations]
+    C --> D[Silver Layer]
+    D --> E[Gold Analytics Tables]
+    E --> F[Power BI Dashboards]
+
+    subgraph Data Platform
+      B
+      C
+      D
+      E
+    end
+```
 
 ---
 
@@ -59,6 +74,18 @@ I work on building **reliable, analytics-ready data pipelines** that transform r
 - Built automated ETL pipelines processing **5,000+ financial records every 6 hours**.
 - Implemented relational schemas and data quality checks (row counts, null validation, freshness monitoring).
 - Improved reporting reliability and stakeholder trust in analytics outputs.
+```mermaid
+flowchart LR
+    A[Yahoo Finance API] --> B[Apache Airflow]
+    B --> C[Python ETL Jobs]
+    C --> D[PostgreSQL Warehouse]
+    D --> E[Analytics Tables]
+    E --> F[Dashboards / Reports]
+
+    subgraph Orchestration
+      B
+    end
+```
 
 ---
 
