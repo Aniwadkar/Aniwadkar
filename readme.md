@@ -5,6 +5,20 @@ I work on building **reliable, analytics-ready data pipelines** that transform r
 
 ---
 
+## 💼 Experience Highlights
+
+### 🌍 Global Health Impact (GHI) — Data Intern
+- Work with global health datasets from **WHO, GBD, and partner sources**, standardizing country-level indicators across disease models.
+- Compute and validate public-health metrics such as **DALYs, incidence, prevalence, and treatment coverage**.
+- Support automation of disease models by transitioning manual data collection into **reproducible CSV-based pipelines** with documented validation steps.
+
+### 🤖 Hera Solutions — ML Systems Intern
+- Built **Streamlit dashboards** to monitor recommender system performance (Precision@10, NDCG, AUC-ROC).
+- Wrote optimized **SQL queries** for metric computation and data validation, supporting recurring analytics reports.
+- Partnered with cross-functional teams on **A/B testing dashboards**, improving experimentation decisions by 40%.
+
+---
+
 ## 🔧 Technical Skills
 
 **Data Engineering**
@@ -30,27 +44,14 @@ I work on building **reliable, analytics-ready data pipelines** that transform r
 
 ---
 
-## 💼 Experience Highlights
-
-### 🌍 Global Health Impact (GHI) — Data Intern
-- Work with global health datasets from **WHO, GBD, and partner sources**, standardizing country-level indicators across disease models.
-- Compute and validate public-health metrics such as **DALYs, incidence, prevalence, and treatment coverage**.
-- Support automation of disease models by transitioning manual data collection into **reproducible CSV-based pipelines** with documented validation steps.
-
-### 🤖 Hera Solutions — ML Systems Intern
-- Built **Streamlit dashboards** to monitor recommender system performance (Precision@10, NDCG, AUC-ROC).
-- Wrote optimized **SQL queries** for metric computation and data validation, supporting recurring analytics reports.
-- Partnered with cross-functional teams on **A/B testing dashboards**, improving experimentation decisions by 40%.
-
----
-
 ## 📂 Featured Projects
 
 ### 💊 **Pharma Sales Lakehouse**
 **BI Analytics & Reporting Solution (dbt, PostgreSQL, Python, Power BI)**  
 - Built analytics-ready datasets and structured schemas for operational and financial reporting.
-- Developed Power BI dashboards translating sales and regional performance into actionable insights.
+- Developed Power BI dashboards, translating sales and regional performance into actionable insights.
 - Reduced reporting turnaround time from **days to hours** through automated transformations.
+
 ```mermaid
 flowchart LR
     A[Raw Pharma Sales Data] --> B[PostgreSQL (Bronze Layer)]
