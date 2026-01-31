@@ -52,6 +52,7 @@ I work on building **reliable, analytics-ready data pipelines** that transform r
 - Developed Power BI dashboards, translating sales and regional performance into actionable insights.
 - Reduced reporting turnaround time from **days to hours** through automated transformations.
 
+```mermaid
 flowchart LR
     A[Raw Pharma Sales Data] --> B["PostgreSQL - Bronze Layer"]
     B --> C[dbt Transformations]
@@ -65,6 +66,8 @@ flowchart LR
       D
       E
     end
+```
+
 
 
 ---
